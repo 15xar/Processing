@@ -7,4 +7,4 @@ Regler for orden.
 
 2. Ordenlige forklaringer på alle "commits"
 
-3. 
+3. Følg "Mappe" ordenen.
